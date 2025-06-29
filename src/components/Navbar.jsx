@@ -109,7 +109,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
                 </Link>
               ))}
               <a
-                href="https://github.com/PURUSHOTHAMAN-V/portfolio/blob/main/src/assets/purushothaman_resume.pdf"
+                href="/assets/purushothaman_resume.pdf"
                 download
                 className="block px-3 py-2 rounded-md text-base font-medium text-primary-600 hover:bg-primary-50 dark:text-primary-400 dark:hover:bg-dark-700 transition-colors duration-200"
               >
